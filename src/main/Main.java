@@ -50,7 +50,7 @@ public class Main {
 
         System.out.println();
         System.out.println();
-        System.out.println("勇者" + h.getName() + "は、いきり立って冒険をはじめた。");
+        System.out.println("勇者" + h.getName() + "は、いきり立って冒険にくり出した！");
 
         C.journey(characters, party);
 
