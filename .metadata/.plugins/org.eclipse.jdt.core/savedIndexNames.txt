@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Users\y-mitsui\Documents\RPGgame\.metadata\.plugins\org.eclipse.jdt.core
+1380389475.index
+3071904489.index
+2722732484.index
+1606618164.index
+1148464110.index
+270511069.index
+2289477268.index
+1053649936.index
+2105121072.index
+1865797976.index
+3778746985.index
+175865013.index
+844575332.index
+2136845167.index
+342256569.index
+4237235508.index
+1183371321.index
+2062559989.index
+3219581484.index
